@@ -72,7 +72,7 @@
 
 
 /* Developer-made libraries */
-#include "../../Functions.include/functions.h"
+#include "./functions.h"
 
 static int nocolor_flag = 0;
 static int scared_flag = 0;
